@@ -1,6 +1,6 @@
 void main() {
-  var name = "limited1";
-  var age = 1;
+  var name = "lim";
+  var age = 2;
   print(name);
   print(age);
 }
